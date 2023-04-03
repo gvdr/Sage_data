@@ -1,0 +1,9 @@
+metric,value
+dim_old,39.0
+dim_new,27.0
+dim_gc_old,39.0
+dim_gc_old,24.0
+entropy_old_all,0.9802290064452265
+entropy_old_all,0.9743895044120835
+entropy_gc_old,0.9799537953966614
+entropy_gc_new,0.973720418711015
